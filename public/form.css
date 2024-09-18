@@ -1,0 +1,19 @@
+form {
+	width: 20%;
+	background-color: lightskyblue;
+	padding: 15px;
+
+	p {
+		border: 1px solid blue;
+	}
+}
+
+.stuff {
+	background-color: blanchedalmond;
+	width: 30%;
+
+	p {
+		font-family: Arial, Helvetica, sans-serif;
+		width: 50%;
+	}
+}
