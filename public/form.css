@@ -1,7 +1,16 @@
+body {
+	margin: 0px;
+}
+
 form {
+	margin: 20px;
 	width: 20%;
 	background-color: lightskyblue;
 	padding: 15px;
+
+	position: absolute;
+	left: 500px;
+	bottom: 0px;
 
 	p {
 		border: 1px solid blue;
